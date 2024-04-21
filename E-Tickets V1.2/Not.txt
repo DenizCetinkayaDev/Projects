@@ -1,0 +1,8 @@
+Ödeme sistemi entegre edilmedi.
+Film sinema koltuk seçme vb detaylar mevcut değil.
+
+
+SqlServer gerektiriyor, örnek data oluşturmak için kodlar mevcut.
+Örnek Admin Kullanıcı mail ve şifresi:
+admin@etickets.com
+Admin1234?
